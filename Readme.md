@@ -41,5 +41,6 @@ Feel free to explore the dashboard and gain insights from the Spotify data!
 
 ## Screenshots
 
+![image](https://github.com/Suvendhu128/Spotify_Dashboard_PowerBi/assets/111605645/2b47aef8-fcfb-4443-8ba0-bf8b3d16d8f5)
 
 
